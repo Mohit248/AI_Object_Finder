@@ -16,6 +16,11 @@ body{
 canvas{
     
     border-radius: 20px;
-    box-shadow: 5px 5px 5px gray;
+    box-shadow: 5px 5px 5px white;
+    margin-top: 180px;
     
+}
+
+#input{
+    width:30%;
 }
